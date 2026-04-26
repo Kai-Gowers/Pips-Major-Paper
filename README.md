@@ -1,4 +1,4 @@
-# Pips Solver by NKai Gowers
+# Pips Solver by Kai Gowers
 
 This project uses logical constraint solving (via Z3) to solve any configuration of **Pips**, the New York Times domino placement puzzle. The interface allows you to visualize the board, run the solver, and display a valid domino placement solution.
 
