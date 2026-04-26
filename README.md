@@ -16,7 +16,7 @@ Follow the steps below to set up and run the interface on your machine.
 
 ```bash
 git clone https://github.com/Kai-Gowers/Pips-Major-Paper.git
-cd Pips-Solver
+cd Pips-Major-Paper
 ```
 
 ## 2. Create and activate a virtual environment
