@@ -6,7 +6,7 @@ This project uses logical constraint solving (via Z3) to solve any configuration
 
 - **`pips_solver_interface.py`** - PyGame fully interactive app for solving pips
 - **`pips_solver_report.pdf`** - Written report/discussion of methodologies
-- **`pips_solver_report_notebook.ipynb`** - Written report/discussion of code and methodologies in a Jupyter notebook (**REFER TO THIS FOR CODE EXPLANATIONS**)
+- **`pips_solver_report_notebook.ipynb`** - Written report/discussion of code in a Jupyter notebook (**REFER TO THIS FOR CODE EXPLANATIONS**)
 
 ## Quick Start Guide
 
